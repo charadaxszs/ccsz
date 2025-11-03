@@ -5,7 +5,6 @@
     "dwLocalPlayerController": 31549552,
     "dwPlantedC4": 31654752,
     "dwViewMatrix": 31633088,
-    
     "m_ArmorValue": 10060,
     "m_bIsDefusing": 10010,
     "m_flFlashOverlayAlpha": 5636,
@@ -20,7 +19,6 @@
     "m_vOldOrigin": 5536,
     "m_hController": 5560,
     "m_iszPlayerName": 1768,
-
     "m_flC4Blow": 4496,
     "m_flNextBeep": 4492,
     "m_flTimerLength": 4504
