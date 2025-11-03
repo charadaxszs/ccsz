@@ -1,6 +1,6 @@
 {
-    "build_number": 20251103, // Coloque a data de hoje, 20251103, para garantir que o seu programa saiba que é o mais novo.
-    "dwBuildNumber": 6222804, // O offset que você encontrou em engine2.dll (seja 6222804 ou 0x5EF3D4)
+    "build_number": 20251103,
+    "dwBuildNumber": 6222804,
     "dwEntityList": 30460408,
     "dwLocalPlayerController": 31549552,
     "dwPlantedC4": 31654752,
