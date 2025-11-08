@@ -4,39 +4,39 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x1D15F88"
+                "value": "0x1D0FBE8"
             },
             {
                 "name": "dwGlobalVars",
-                "value": "0x1BE77F0"
+                "value": "0x1BE0178"
             },
             {
                 "name": "dwLocalPlayerController",
-                "value": "0x1E1F1E8"
+                "value": "0x1E19AD0"
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x1BF2490"
+                "value": "0x1BEAEB8"
             },
             {
                 "name": "dwPlantedC4",
-                "value": "0x1E38160"
+                "value": "0x1E33590"
             },
             {
                 "name": "dwViewAngles",
-                "value": "0x1E3DC20"
+                "value": "0x1E38670"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x1E231B0"
+                "value": "0x1E2E0F0"
             },
             {
                 "name": "dwWindowHeight",
-                "value": "0x8EA624"
+                "value": "0x8EE81C"
             },
             {
                 "name": "dwWindowWidth",
-                "value": "0x8EA620"
+                "value": "0x8EE818"
             }
         ]
     },
@@ -74,11 +74,11 @@
             },
             {
                 "name": "m_aimPunchAngle",
-                "value": "0x16FC"
+                "value": "0x16E4"
             },
             {
                 "name": "m_aimPunchCache",
-                "value": "0x1720"
+                "value": "0x1708"
             },
             {
                 "name": "m_bIsBuyMenuOpen",
@@ -90,19 +90,19 @@
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x23E8"
+                "value": "0x2718"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x23EA"
+                "value": "0x271A"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x23FC"
+                "value": "0x272C"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x241C"
+                "value": "0x274C"
             },
             {
                 "name": "m_hViewModel",
@@ -126,23 +126,23 @@
             },
             {
                 "name": "m_pClippingWeapon",
-                "value": "0x13A0"
+                "value": "0x3DE0"
             },
             {
                 "name": "m_flFlashMaxAlpha",
-                "value": "0x1408"
+                "value": "0x160C"
             },
             {
                 "name": "m_flFlashDuration",
-                "value": "0x140C"
+                "value": "0x1610"
             },
             {
                 "name": "m_angEyeAngles",
-                "value": "0x3E00"
+                "value": "0x3DF0"
             },
             {
                 "name": "m_iIDEntIndex",
-                "value": "0x1458"
+                "value": "0x3ECC"
             },
             {
                 "name": "m_iDesiredFOV",
@@ -154,19 +154,19 @@
             },
             {
                 "name": "m_pWeaponServices",
-                "value": "0x11A8"
+                "value": "0x13F0"
             },
             {
                 "name": "m_pCameraServices",
-                "value": "0x1440"
+                "value": "0x1428"
             },
             {
                 "name": "m_pMovementServices",
-                "value": "0x11E8"
+                "value": "0x1430"
             },
             {
                 "name": "m_vOldOrigin",
-                "value": "0x15B8"
+                "value": "0x15A0"
             },
             {
                 "name": "m_bSpottedByMask",
@@ -198,11 +198,11 @@
             },
             {
                 "name": "m_vecAbsVelocity",
-                "value": "0x3F0"
+                "value": "0x3FC"
             },
             {
                 "name": "m_hOwnerEntity",
-                "value": "0x440"
+                "value": "0x520"
             },
             {
                 "name": "m_vecOrigin",
@@ -223,11 +223,11 @@
         "constants": [
             {
                 "name": "m_hPawn",
-                "value": "0x6B4"
+                "value": "0x8FC"
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x1420"
+                "value": "0x1408"
             },
             {
                 "name": "m_hController",
@@ -239,15 +239,15 @@
             },
             {
                 "name": "m_iPawnArmor",
-                "value": "0x834"
+                "value": "0x90C"
             },
             {
                 "name": "m_bPawnHasDefuser",
-                "value": "0x828"
+                "value": "0x910"
             },
             {
                 "name": "m_bPawnHasHelmet",
-                "value": "0x829"
+                "value": "0x911"
             }
         ]
     },
@@ -256,11 +256,11 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x1148"
+                "value": "0x1438"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x15F8"
+                "value": "0x1870"
             },
             {
                 "name": "m_nFallbackSeed",
@@ -268,7 +268,7 @@
             },
             {
                 "name": "m_flFallbackWear",
-                "value": "0x1600"
+                "value": "0x1878"
             },
             {
                 "name": "m_nFallbackStatTrak",
@@ -346,15 +346,15 @@
         "constants": [
             {
                 "name": "m_nBombSite",
-                "value": "0xF94"
+                "value": "0x1164"
             },
             {
                 "name": "m_bBeingDefused",
-                "value": "0xFCC"
+                "value": "0x119C"
             },
             {
                 "name": "m_flDefuseCountDown",
-                "value": "0xFE0"
+                "value": "0x11B0"
             },
             {
                 "name": "m_flC4Blow",
